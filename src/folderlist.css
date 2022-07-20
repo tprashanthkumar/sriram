@@ -1,0 +1,8 @@
+.folderItem {
+  width: 25rem;
+  height: 6rem;
+  background-color: aliceblue;
+  border: 1px solid;
+  justify-content: center;
+  display: flex;
+}
